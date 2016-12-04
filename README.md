@@ -29,3 +29,4 @@ The config is pretty simple. Fill out your plex login credentials, your wink cre
 
 **Roadmap**
 * support additional lighting products
+* WeMo support!!!
